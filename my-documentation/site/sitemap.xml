@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
+         <loc>https://tactlabs.github.io/mkdocs-sample/</loc>
          <lastmod>2025-02-02</lastmod>
     </url>
     <url>
-         <loc>https://example.com/getting-started/</loc>
+         <loc>https://tactlabs.github.io/mkdocs-sample/getting-started/</loc>
          <lastmod>2025-02-02</lastmod>
     </url>
     <url>
-         <loc>https://example.com/about/changelog/</loc>
+         <loc>https://tactlabs.github.io/mkdocs-sample/about/changelog/</loc>
          <lastmod>2025-02-02</lastmod>
     </url>
     <url>
-         <loc>https://example.com/about/contributing/</loc>
+         <loc>https://tactlabs.github.io/mkdocs-sample/about/contributing/</loc>
          <lastmod>2025-02-02</lastmod>
     </url>
     <url>
-         <loc>https://example.com/api-reference/authentication/</loc>
+         <loc>https://tactlabs.github.io/mkdocs-sample/api-reference/authentication/</loc>
          <lastmod>2025-02-02</lastmod>
     </url>
     <url>
-         <loc>https://example.com/api-reference/endpoints/</loc>
+         <loc>https://tactlabs.github.io/mkdocs-sample/api-reference/endpoints/</loc>
          <lastmod>2025-02-02</lastmod>
     </url>
     <url>
-         <loc>https://example.com/user-guide/advanced-usage/</loc>
+         <loc>https://tactlabs.github.io/mkdocs-sample/user-guide/advanced-usage/</loc>
          <lastmod>2025-02-02</lastmod>
     </url>
     <url>
-         <loc>https://example.com/user-guide/configuration/</loc>
+         <loc>https://tactlabs.github.io/mkdocs-sample/user-guide/configuration/</loc>
          <lastmod>2025-02-02</lastmod>
     </url>
     <url>
-         <loc>https://example.com/user-guide/installation/</loc>
+         <loc>https://tactlabs.github.io/mkdocs-sample/user-guide/installation/</loc>
          <lastmod>2025-02-02</lastmod>
     </url>
 </urlset>

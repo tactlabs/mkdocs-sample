@@ -1,6 +1,6 @@
 # mkdocs.yml configuration
-site_name: My Project Documentation
-site_url: https://example.com/
+site_name: MKDocs Sample
+site_url: https://tactlabs.github.io/mkdocs-sample/
 theme:
   name: material
   features:
